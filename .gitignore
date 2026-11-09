@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# img-comp-algo project: local virtual environment and generated results
+img-comp-algo/
+output/

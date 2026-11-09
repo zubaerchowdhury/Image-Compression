@@ -1,0 +1,11 @@
+# --- img-comp-algo dependencies ---
+# Array maths for the DCT / quantisation / Huffman stages
+numpy>=2.0
+# Reads JPEG and BMP inputs, writes the lossless PNG preview
+pillow>=11.0
+# Reads/writes 8-bit and 16-bit (single- or multi-channel) TIFF files
+tifffile>=2024.8.30
+# Notebook only: inline figures and the Jupyter kernel
+matplotlib>=3.9
+notebook>=7.2
+ipykernel>=6.29
